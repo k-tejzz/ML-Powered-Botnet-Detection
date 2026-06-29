@@ -201,7 +201,7 @@ To address this, **SMOTE (Synthetic Minority Oversampling Technique)** was appli
 
 ## 👨‍💻 Author
 
-**Satya Teja**
+**Sathya Teja**
 
 GitHub:
 https://github.com/k-tejzz
